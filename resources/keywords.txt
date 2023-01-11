@@ -1,0 +1,37 @@
+what we have:
+  - a frontend app
+  - built in a reactive style of development
+  - a progressive web app (PWA)
+  - that uses a service worker to facilitate caching and a native feel through a manifest.json file
+  - built with the Vue.js framework
+  - that uses the Vuetify UI/UX framework
+  - which implements the Matrial Design filosophy
+  - we store data locally using Local Storage
+
+what we need:
+  - a backend app
+  - design to follow the REST API architecture
+  - built on top of the Node.js enviornment
+  - usign Feathers.js as a framework
+  - which relies on the widley known Express.js framework
+  - will be based on using microservices
+  - data will be stored in a noSQL database (MongoDB)
+  - security will based on JSON Web Tokens (jwt)
+
+development enviorment and tools:
+  - using node.js and node package manager (npm) to handle dependencies and
+    for module bundling purposes
+  - using @vue/cli for frontend code management
+  - using @feathersjs/cli for backend code management
+  - using Compass for managing MongoDB data
+
+More random keywords and terms:
+  - CRUD (create, read, update, delete)
+  - coding style (eslint)
+  - module bundling
+  - DRY principle (don't repeat yourself)
+  - Mongoose ODM
+  - Thunder Client VSCode extension to manage requests and responses to a REST API
+  - JS Promises (catch/error and async/await)
+  - Client State Management (Vuex)
+  - CLient Routing (Vue Router)

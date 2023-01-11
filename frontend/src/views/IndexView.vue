@@ -1,15 +1,15 @@
 <template>
-  <index-page />
+  <index />
 </template>
 
 <script>
-import IndexPage from '../components/IndexPage'
+import Index from '../components/Index'
 
 export default {
   name: 'IndexView',
 
   components: {
-    IndexPage
+    Index
   }
 }
 </script>

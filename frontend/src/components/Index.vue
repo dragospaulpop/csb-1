@@ -68,7 +68,7 @@
 import uniqid from 'uniqid'
 
 export default {
-  name: 'IndexPage',
+  name: 'IndexComponent',
 
   data: () => ({
     action: 'Add Todo',
